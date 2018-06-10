@@ -1,12 +1,13 @@
 
-Phoenix64, a incomplete jailbreak for 9.3.4 - 9.3.5 64bit devices.
+Phoenix64, a incomplete jailbreak for 9.3.4 - 9.3.5 64-bit devices.
 
 STILL IN DEVELOPMENT.
 
 PLANNED SUPPORT:
--All 64 bit devices on 9.3.4-9.3.5
--Substitute integration (install tweaks)
--Cydia support
+- All 64 bit devices on 9.3.4 - 9.3.5
+- Substitute integration (install tweaks)
+- Cydia support
+- 
 
 
 NOTE: NOT TESTED.
